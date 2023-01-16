@@ -7,7 +7,7 @@ Will include:
 * Include HTML Boilerplate
 * Include paragraphs
 * Include headings 
-* Include bold and italicized text
+* Include bold and italicized text(did not execute)
 * Include html comments if necessary
 * Include ordered and unordered lists
 * Include absolute links with correct elements
